@@ -1,0 +1,65 @@
+* {
+    padding:0;
+    margin:0;
+  }
+
+  #intro {
+    display: table;
+    width: 100%;
+    height: 100vh;
+    padding: 100px 0;
+    color: white;
+    background: url(./img/bg/fitbg.png) no-repeat bottom center scroll;
+    background-position: 30% 45%;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+
+  #top{
+      margin-top: -100px;
+  }
+
+  #main-box{
+    width: 320px;
+    height: 350px;
+    border-radius: 5px;
+    background-color: #66CCD7;
+    margin-top: 130px;
+    display: flex;
+    border-style: solid;
+    border-width: 2px;
+  }
+
+  h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-weight: bold;
+    color: #da9178;
+  }
+
+#speso{
+    font-size: large;
+    color: #da9178;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#saltura{
+    font-size: large;
+    color: #da9178;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#resultimc{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  font-weight: bold;
+  color: #da9178;
+}
+
+#botao{
+  background-color: #da9178;
+  color: gray;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  
+}
